@@ -1,0 +1,8 @@
+1. WAP to enter two integer from the keyboard and perform all the arithmetic operations on them.
+2. WAP to enter three sides of a tringle. Find out the area of the tringle. 
+3. WAP to enter an integer number and find out its binary, octal and hexadecimal equivalents.
+4. WAP to enter the coefficients of a quadratic equation and findout the roots of the equivalent
+5 .WAP to enter a temperature in farenheite and convert it into celsiuss. 
+6. WAP to convert distance in meters to Kilometers. 
+7. WAP to enter time in minutes and print it in hour and minute format. 
+8. WAP to enter two numbers nd swap them using bitwise operators. 

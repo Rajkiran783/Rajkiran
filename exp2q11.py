@@ -1,0 +1,6 @@
+# 11- WRITE A PROGRAM TO INPUT A STRING "HI RAM HI SHYAM HI MAM", SEARCH THE WORD "HI" AND REPLACE WITH "HELLO" REMOVE THE WHITE SPACE FROM BEGINING AND END AND THEN DISPLAY THE SENTANCE
+
+s = input("enter a string:")
+s = s.replace("HI", "HELLO")
+s = s.strip()
+print("Final string is:", s)

@@ -1,0 +1,5 @@
+1.WAP to plot a simple graph using plot().
+2.WAP to draw the scatter and bar plot.
+3.WAP to draw Histograms and Box plots.
+4.WAP to draw Pie Charts and Contour plots.
+5.WAP to draw the 3D-plot.
